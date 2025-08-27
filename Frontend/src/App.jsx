@@ -36,7 +36,7 @@ function App() {
         
         {/* Logo */}
         <img src={Money} className="w-28 h-28 mb-4" alt="money" />
-        <h1 className="text-4xl font-extrabold text-green-700">Exchange Rate</h1>
+        <h1 className="text-4xl font-extrabold text-green-700">Exchange Currency</h1>
         <p className="text-lg text-gray-600">
           Choose the currency and the amount to get the latest exchange rate.
         </p>
